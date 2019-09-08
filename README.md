@@ -1,1 +1,2 @@
-# Dig-Dug-Game---Ice-Man
+# CS30FinalProject
+Final project of Sping computer science (advanced C++)
